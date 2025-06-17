@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cloud.appwrite.io/console/project-fra-685102c7000c6d8858db/storage/bucket-685102f7001323b661ab/file-6851030500321f86f8e2"  />
+  <img height="200" src="https://fra.cloud.appwrite.io/v1/storage/buckets/685102f7001323b661ab/files/6851030500321f86f8e2/view?project=685102c7000c6d8858db&mode=admin"  />
 </div>
 
 ###
